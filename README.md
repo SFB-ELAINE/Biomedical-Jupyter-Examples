@@ -13,7 +13,7 @@ doi: 10.1186/s13578-018-0220-8
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/), please use the Zenodo reference:
 
-[![DOI](https://zenodo.org/badge/169142559.svg)](https://zenodo.org/badge/latestdoi/169142559)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3548652.svg)](https://doi.org/10.5281/zenodo.3548652)
 
 In order to reference the GitHub repository, please attribute this as:
 
