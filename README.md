@@ -13,7 +13,7 @@ doi: 10.1186/s13578-018-0220-8
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/), please use the Zenodo reference:
 
-[![DOI](https://zenodo.org/badge/DOI/)]()
+[![DOI](https://zenodo.org/badge/169142559.svg)](https://zenodo.org/badge/latestdoi/169142559)
 
 In order to reference the GitHub repository, please attribute this as:
 
@@ -36,6 +36,8 @@ For each programming language a separate Docker image exists.
 There are several methods of using the Jupyter Notebooks of this repository:
 
 ### Ready-to-use Docker Images
+
+[![docker pulls](https://img.shields.io/docker/pulls/sfbelaine/biomedical-jupyter-notebooks.svg)](https://hub.docker.com/r/sfbelaine/biomedical-jupyter-notebooks/) [![docker stars](https://img.shields.io/docker/stars/sfbelaine/biomedical-jupyter-notebooks.svg)](https://hub.docker.com/r/sfbelaine/biomedical-jupyter-notebooks/) [![docker build](https://img.shields.io/docker/cloud/automated/sfbelaine/biomedical-jupyter-notebooks)](https://hub.docker.com/r/sfbelaine/biomedical-jupyter-notebooks/) [![docker build status](https://img.shields.io/docker/cloud/build/sfbelaine/biomedical-jupyter-notebooks)](https://hub.docker.com/r/sfbelaine/biomedical-jupyter-notebooks/)
 
 The probably easiest way is to use the corresponding docker image: sfbelaine/biomedical-jupyter-notebooks:`<programming-language>` e.g. for running the Python example execute the following command in your terminal:
 
